@@ -1,0 +1,22 @@
+langchain 
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+
+# langgraph-decorators
+bs4
+faiss-cpu
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain-huggingface
+langchain-groq
+
+chromadb
+langgraph
+annotated-types
+
+streamlit
