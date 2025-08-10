@@ -22,3 +22,4 @@ annotated-types
 streamlit
 yfinance
 ta
+matplotlib
