@@ -21,3 +21,4 @@ annotated-types
 
 streamlit
 yfinance
+ta
