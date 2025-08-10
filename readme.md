@@ -21,6 +21,7 @@ A Streamlit-based web app that leverages LangGraph, LangChain, and OpenAI's GPT-
 1. Clone the repository:
 
    git clone https://github.com/amany4864/ai-financer/
+   
    cd ai-financer
 
 2. Install dependencies:
